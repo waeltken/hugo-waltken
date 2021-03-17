@@ -1,6 +1,6 @@
 baseURL = "https://www.example.com/"
-title = "Hugo Theme Basic"
-theme ="hugo-theme-basic"
+title = "Hugo Theme Waltken"
+theme ="hugo-waltken"
 languageCode = "en-us"
 googleAnalytics = "UA-XXXXXXXXX-X"
 enableEmoji = true 
