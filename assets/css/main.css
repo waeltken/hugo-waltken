@@ -1,0 +1,30 @@
+body {
+  color: #222;
+  font-family: sans-serif;
+  line-height: 1.5;
+  margin: 1rem;
+  max-width: 768px;
+}
+
+header {
+  border-bottom: 1px solid #222;
+  margin-bottom: 1rem;
+}
+
+footer {
+  border-top: 1px solid #222;
+  margin-top: 1rem;
+}
+
+a {
+  color: #00e;
+  text-decoration: none;
+}
+
+/* This reverses the text display to make it harder for spam bots to read
+ * certain text like emails and address.
+ */
+.reverse {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+}
